@@ -1,4 +1,5 @@
 class Dog
+<<<<<<< HEAD
   def name=(new_name)
     @name = new_name
   end
@@ -16,3 +17,6 @@ class Dog
   end
   
 end
+=======
+  
+>>>>>>> 471df5c4ae83f733f3187b1562ff86bc6d8bce87
